@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\fyj\Android-AndroidStudio\chapter8\Socket_UDP\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4\classes.dex" />
+    </item>
+    <item
+        jar="E:\fyj\Android-AndroidStudio\chapter8\Socket_UDP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f79940af1ef2df40580f2dab3cfbf30423e25cf7">
+        <dex dex="E:\fyj\Android-AndroidStudio\chapter8\Socket_UDP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c2832b504a3a12cdfd749a93eb4d47b7ba46716e\classes.dex" />
+    </item>
+    <item
+        jar="E:\fyj\Android-AndroidStudio\chapter8\Socket_UDP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f1d1ca85988debf99beead7c1b7a49dc07f8d9a4">
+        <dex dex="E:\fyj\Android-AndroidStudio\chapter8\Socket_UDP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4d9bef8cfd1ac58bafdd576f2a6f333190ea548d\classes.dex" />
+    </item>
+
+</items>
