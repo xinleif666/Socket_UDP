@@ -1,0 +1,29 @@
+# Built artifacts
+bin
+gen
+out
+build
+.gradle
+
+# Android Studio / IntelliJ
+.idea
+*.iml
+*.iws
+*.ipr
+.navigation
+captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Gradle
+.gradle
+gradle-*.zip
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+projectFilesBackup/
+import-summary.txt
